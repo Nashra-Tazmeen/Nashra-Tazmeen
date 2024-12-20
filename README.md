@@ -13,13 +13,16 @@ Welcome to my GitHub profile!passionate about data science and artificial intell
 Continuously improving my skills in:
 
 -Learning advanced NLP techniques using transformer models like BERT for diverse text-processing tasks.
+
 -Gaining expertise in fine-tuning large language models (LLMs) for generative AI applications.
+
 -Deepening my understanding of implementing cutting-edge NLP solutions using frameworks like TensorFlow and PyTorch.
+
 -Enhancing my knowledge of cloud platforms like AWS for deploying machine learning models.
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Nashra on LinkedIn]()
+- LinkedIn: [Nashra on LinkedIn](https://www.linkedin.com/in/nashra-tazmeen-8984021a3/)
 - Email: nashra2024@gmail.com
 
 
