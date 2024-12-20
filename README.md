@@ -44,6 +44,7 @@ Continuously improving my skills in:
 - [Multi-Pdf-Chat-with-LangChain-and-LLMs](https://github.com/Nashra-Tazmeen/Multi-PDF-Chat-with-LangChain-and-LLMs):
    - This project enables users to upload PDF files, extract their content, and interact with the extracted data via a conversational interface powered by Google Generative AI (Gemini) and LangChain. Using Streamlit, this application allows you to ask questions about the contents of PDF documents, and it will generate detailed answers based on the PDF text.
 - [LinkedIn profile Summarizer](https://github.com/Nashra-Tazmeen/LinkedIn--Profile--Summarizer-):
+  
    -Developed an LLM-powered application using LangChain, called "Ice Breaker.The application captures user input (e.g., name) and scrapes LinkedIn profiles for relevant informatio and Generates personalized summaries based on designed standards for professional outreach. 
 through NLP driven summary
 
@@ -63,7 +64,7 @@ through NLP driven summary
 
 ## 📊 GitHub Stats
 
-<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul-404&show_icons=true&theme=radical) -->
-![Rahul-404's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul-404&theme=flag-india&hide_border=false)
-![Rahul-404's Stats](https://github-readme-stats.vercel.app/api?username=Rahul-404&theme=flag-india&show_icons=true&hide_border=false&count_private=false)
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nashra-Tazmeen&show_icons=true&theme=radical) -->
+![Nashra Tazmeen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NashraTazmeen&theme=flag-india&hide_border=false)
+![Nashra Tazmeen's Stats](https://github-readme-stats.vercel.app/api?username=NashraTazmeen&theme=flag-india&show_icons=true&hide_border=false&count_private=false)
 
