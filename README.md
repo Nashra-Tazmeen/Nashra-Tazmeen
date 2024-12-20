@@ -1,6 +1,6 @@
 # Hello, I'm Nashra Tazmeen - Data Scientist 👨‍💻
 
-Welcome to my GitHub profile!passionate about data science and artificial intelligence, with a strong interest in leveraging machine learning and AI to solve real-world problems. while continuously exploring advancements in data science and AI technologies to enhance decision-making
+Welcome to my GitHub profile!Iam passionate about data science and artificial intelligence, with a strong interest in leveraging machine learning and AI to solve real-world problems. while continuously exploring advancements in data science and AI technologies to enhance decision-making
 
 ## 🔭 What I Do
 
@@ -44,8 +44,7 @@ Continuously improving my skills in:
 - [Multi-Pdf-Chat-with-LangChain-and-LLMs](https://github.com/Nashra-Tazmeen/Multi-PDF-Chat-with-LangChain-and-LLMs):
    - This project enables users to upload PDF files, extract their content, and interact with the extracted data via a conversational interface powered by Google Generative AI (Gemini) and LangChain. Using Streamlit, this application allows you to ask questions about the contents of PDF documents, and it will generate detailed answers based on the PDF text.
 - [LinkedIn profile Summarizer](https://github.com/Nashra-Tazmeen/LinkedIn--Profile--Summarizer-):
-  
-   -Developed an LLM-powered application using LangChain, called "Ice Breaker.The application captures user input (e.g., name) and scrapes LinkedIn profiles for relevant informatio and Generates personalized summaries based on designed standards for professional outreach. 
+   - Developed an LLM-powered application using LangChain, called "Ice Breaker.The application captures user input (e.g., name) and scrapes LinkedIn profiles for relevant informatio and Generates personalized summaries based on designed standards for professional outreach. 
 through NLP driven summary
 
 ## 📈 Competitive Programming Profiles
