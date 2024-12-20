@@ -12,7 +12,7 @@ Welcome to my GitHub profile!Iam passionate about data science and artificial in
 
 Continuously improving my skills in:
 
--Learning advanced NLP techniques using transformer models like BERT for diverse text-processing tasks.
+-Advanced NLP techniques using transformer models like BERT for diverse text-processing tasks.
 
 -Gaining expertise in fine-tuning large language models (LLMs) for generative AI applications.
 
