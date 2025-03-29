@@ -1,6 +1,6 @@
 # Hello, I'm Nashra Tazmeen - Data Scientist
 
-Welcome to my GitHub profile!Iam passionate about data science and artificial intelligence, with a strong interest in leveraging machine learning and AI to solve real-world problems. while continuously exploring advancements in data science and AI technologies to enhance decision-making
+Welcome to my GitHub profile!Iam a Data scientist  with a strong interest in leveraging machine learning and AI to solve real-world problems. while continuously exploring advancements in data science and AI technologies to enhance decision-making
 
 ## 🔭 What I Do
 
