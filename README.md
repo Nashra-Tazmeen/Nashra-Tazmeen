@@ -1,6 +1,6 @@
 # Hello, I'm Nashra Tazmeen - Data Scientist
 
-Welcome to my GitHub profile!Iam a Data scientist  with a strong interest in leveraging machine learning and AI to solve real-world problems. while continuously exploring advancements in data science and AI technologies to enhance decision-making
+Welcome to my GitHub profile !Iam a Data scientist  with a strong interest in leveraging machine learning and AI to solve real-world problems. while continuously exploring advancements in data science and AI technologies to enhance decision-making
 
 ## 🔭 What I Do
 
@@ -60,10 +60,4 @@ through NLP driven summary
 ## 🎓 Education
 
 - Bachelor's in Computer Engineering from JNTUH University 
-
-## 📊 GitHub Stats
-
-<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nashra-Tazmeen&show_icons=true&theme=radical) -->
-![Nashra Tazmeen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nashra-Tazmeen&theme=flag-india&hide_border=false)
-![Nashra Tazmeen's Stats](https://github-readme-stats.vercel.app/api?username=Nashra-Tazmeen&theme=flag-india&show_icons=true&hide_border=false&count_private=false)
 
